@@ -1,6 +1,6 @@
 # Zero-Cost LLM Hosting: Unleash vLLM Locally
 
-Here is the repository that contains the demo scripts of this [Rabiloo blog post]().
+Here is the repository that contains the demo scripts of this [Rabiloo blog post](https://rabiloo.com/blog/deploying-local-llm-hosting-for-free-with-vllm).
 
 We are going to follow the instructions below to set up the environment and serve LLMs locally.
 
@@ -97,7 +97,7 @@ You can try the gradio app at:
 Stop the app: Press ```Ctrl+C```
 
 ## Tip: Run vLLM with GPU on Google Colab
-Check out notebook vllm_colab.ipynb and [blog post]() for modification.
+Check out notebook vllm_colab.ipynb and [blog post](https://rabiloo.com/blog/deploying-local-llm-hosting-for-free-with-vllm) for modification.
 
 ## References
 - [vLLM](https://github.com/vllm-project/vllm)
